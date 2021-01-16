@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BinanceBot/obj
+/BinanceBot/bin/Debug
+/BinanceBot/.vs/BinanceBot
